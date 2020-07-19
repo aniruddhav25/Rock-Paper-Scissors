@@ -58,7 +58,7 @@ const playerWiseScores = (value, index, array) => {
     }
 }
 
-//Runs the game for specified no of rounds
+//Runs the game for specified no of rounds.
 module.exports.runRounds = (rounds, players) => {
     if (rounds <= 0 || players <= 1) {
         console.log("Please enter the fields within the specified range") //Initial Check
