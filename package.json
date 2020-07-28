@@ -1,0 +1,22 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "Rock-Paper-Scissors Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniruddhav25/Rock-Paper-Scissors.git"
+  },
+  "author": "aniruddhav25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniruddhav25/Rock-Paper-Scissors/issues"
+  },
+  "homepage": "https://github.com/aniruddhav25/Rock-Paper-Scissors#readme",
+  "dependencies": {
+    "console-table-printer": "^2.2.3"
+  }
+}
